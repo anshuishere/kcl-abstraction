@@ -1,0 +1,25 @@
+[dependencies]
+  [dependencies.kcl-json-merge-patch]
+    name = "kcl-json-merge-patch"
+    full_name = "kcl-json-merge-patch_0.0.1"
+    version = "0.0.1"
+    sum = "mcps4V2Fsa6YInQ7pJhvZ2o1T9cq58wP3SgKtvW113k="
+    reg = "ghcr.io"
+    repo = "anshuishere/kcl-json-merge-patch"
+    oci_tag = "0.0.1"
+  [dependencies.microservicea]
+    name = "microservicea"
+    full_name = "microservicea_0.0.1"
+    version = "0.0.1"
+    sum = "hu9Lz1jwwAS3eIlzh8T1zw35JP4ajSIs8digirZC0Tk="
+    reg = "ghcr.io"
+    repo = "anshuishere/microservicea"
+    oci_tag = "0.0.1"
+  [dependencies.microserviceb]
+    name = "microserviceb"
+    full_name = "microserviceb_0.0.1"
+    version = "0.0.1"
+    sum = "HIQCKKXGmNDxXw0QiNs/Vxp2GdTC+pTbWboKI+NYKp0="
+    reg = "ghcr.io"
+    repo = "anshuishere/microserviceb"
+    oci_tag = "0.0.1"

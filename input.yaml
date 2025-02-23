@@ -1,0 +1,9 @@
+msb:
+   serviceName: updatedMSB
+   port: 443
+   host: anshuman.singh
+
+
+msa:
+  #  serviceName: msA
+   replicas: 2
